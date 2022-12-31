@@ -1,2 +1,2 @@
-# ParhAI-Data-Science
-Personal notes and reference materials for PardAI series on Data Science
+# PadhAI-Data-Science
+Personal notes and reference materials for PadhAI series on Data Science
